@@ -10,6 +10,7 @@ public class HelloWorld {
 		 * un autre comment
 		 * encore
 		 * hhh
+		 *comment
 		 */
 		
 		String message = "Hello Maven World";
